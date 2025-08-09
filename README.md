@@ -29,4 +29,5 @@ Before you can unmix your experimental images, you must calculate the bleed-thro
 
 This method was used for image analysis in:
 
-> Lim, T. K. Y., et al. (2025). "Cap-independent co-expression of dsRNA-sensing and NF-κB pathway inhibitors enables tunable self-amplifying RNA expression with reduced immunotoxicity." *bioRxiv*, 2024.09.24.614636. doi: [10.1101/2024.09.24.614636](https://doi.org/10.1101/2024.09.24.614636).
+> Tony KY Lim, Anne Ritoux, Luke W Paine, Larissa Ferguson, Tawab Abdul, Laura J Grundy, Ewan St. John Smith (2025) Cap-independent co-expression of dsRNA-sensing and NF-κB pathway inhibitors enables tunable self-amplifying RNA expression with reduced immunotoxicity. eLife 14:RP105978
+https://doi.org/10.7554/eLife.105978
