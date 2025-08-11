@@ -1,4 +1,4 @@
-# Spectral Unmixing
+# Spectral Unmixing for Odyssey M
 
 This repository contains a colab notebook to correct spectral bleed-through (crosstalk) in multi-channel fluorescence well scan images using linear unmixing. This code was developed for images acquired on an Odyssey M imaging system but can be adapted for other systems.
 
